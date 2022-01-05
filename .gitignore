@@ -29,4 +29,8 @@ _asset_bundler_cache
 _site
 _drafts
 
+# Pycharm files
 .idea
+
+# Custom files
+draft_images
