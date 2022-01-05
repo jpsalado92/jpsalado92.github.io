@@ -13,7 +13,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -41,9 +41,9 @@ comments:
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true # true, false (default)
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+  hide                   : # true, false (default)
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 
 # SEO Related
@@ -106,15 +106,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/jpsalado92
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/jpsalado92
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jpsalado/
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: https://github.com/jpsalado92
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: https://twitter.com/jpsalado92
+#    - label: "Linkedin"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: https://www.linkedin.com/in/jpsalado/
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      # url:
