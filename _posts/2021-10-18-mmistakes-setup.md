@@ -5,6 +5,7 @@ categories: reference web-development
 tags: jekyll minimal-mistakes
 toc: false
 classes: wide
+excerpt: Basic reference for applying the minimal mistakes theme to a Jekyll site.
 ---
 This post provides basic reference for applying the minimal mistakes theme to a Jekyll site.
 
