@@ -50,6 +50,7 @@ This will create a new directory with the site's name.
 Now, `cd` into that directory and build the site making it available locally.
 
 ```shell
+bundle install
 bundle exec jekyll serve
 ```
 
