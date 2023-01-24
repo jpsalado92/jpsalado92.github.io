@@ -8,3 +8,5 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "My CV"
+    url: https://www.getmanfred.com/en/applications/2b05eaa0-fb0f-4b87-a45e-48bff1a3d167
