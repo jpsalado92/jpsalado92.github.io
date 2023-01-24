@@ -1,7 +1,7 @@
 ---
 title: Functional programming in Python
 date: 2023-01-24 00:00:00 +0100
-toc_sticky: false
+toc_sticky: true
 excerpt: Why choosing functional programming over object oriented programming.
 categories: reference
 tags: FP OOP Python best-practices
