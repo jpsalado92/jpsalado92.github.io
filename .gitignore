@@ -33,7 +33,5 @@ _site
 
 # Custom files
 draft_images
-
-# VS Code
-.vscode_drafts/*
+_drafts/*
 !_drafts/style.md
