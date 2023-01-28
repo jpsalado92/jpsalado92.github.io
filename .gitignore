@@ -27,7 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-_drafts
 
 # Pycharm files
 .idea
@@ -36,4 +35,5 @@ _drafts
 draft_images
 
 # VS Code
-.vscode
+.vscode_drafts/*
+!_drafts/style.md
