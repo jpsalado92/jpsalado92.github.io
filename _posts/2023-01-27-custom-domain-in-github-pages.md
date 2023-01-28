@@ -41,7 +41,7 @@ If you want to use the root domain (e.g. `jpsalado.dev` ) instead of a subdomain
 
 In Google Domains this is how the setup for **A**, **AAAA** and the **CNAME** records looks:
 
-![DNS Setup at Google Domains]({{ site.url }}{{ site.baseurl }}/assets/images/custom-domain-in-github-pages/google-domains-github-dns-setup.png)
+![DNS Setup at Google Domains]({{ site.url }}{{ site.baseurl }}/assets/images/custom-domain-in-github-pages/google-domains-github-dns-setup.webp)
 
 ## 3. Setting up your Github Pages Repository
 
