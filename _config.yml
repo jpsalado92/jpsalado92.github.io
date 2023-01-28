@@ -75,7 +75,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan Pablo Salado"
-  avatar           : /assets/images/jps-square.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/jps-square.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech enthusiast immersed in a continuous process of personal and professional development."
   location         : "SE, Stockholm"
   email            : jpsalado92@gmail.com
