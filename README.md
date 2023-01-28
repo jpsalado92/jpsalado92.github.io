@@ -9,6 +9,9 @@ bundle exec jekyll serve
 
 # In order to include drafts use this one
 bundle exec jekyll serve --drafts
+
+# If auto-refresh not working, try this one
+bundle exec jekyll serve --force_polling
 ```
 
 ## References
