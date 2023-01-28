@@ -34,3 +34,6 @@ _drafts
 
 # Custom files
 draft_images
+
+# VS Code
+.vscode
