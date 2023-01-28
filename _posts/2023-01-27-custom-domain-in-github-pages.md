@@ -76,6 +76,7 @@ When setting up a custom domain for your Github Pages website, you need to confi
 An **Apex Domain**, also known as a **root domain**, is a domain that does not include a subdomain prefix, such as `www` " or `blog` . For example, `example.com` is an apex domain, while `www.example.com` is a subdomain.
 
 **Q: What are the "A" and "AAAA" records?**
+
 A and AAAA records are types of DNS records that are used to map a domain name to an IP address.
 
 * A records are used for mapping domain names to IPv4 addresses.
@@ -90,6 +91,7 @@ A **CNAME (Canonical Name) record** is a type of DNS record that maps a subdomai
 If you want to use the root domain (e.g. `example.com` ) instead of a subdomain (e.g. `www.example.com` ) with your Github Pages website, you will need to create a CNAME record in your domain registrar's control panel that points to your Github Pages repository (e.g. `username.github.io` ).
 
 **Q: What is the TTL entry in the DNS records setup?**
+
 **TTL (Time to Live)** is a value in the DNS record that determines for how long a browser or resolver should keep the information stored in its cache before it needs to request the information again. It's measured in seconds, usually the values are between 300 to 86400 seconds (5 minutes to 24 hours) . The lower the value, the sooner the browser or resolver will need to ask for the information again, while higher values make the information stay in the cache for longer periods of time. This can improve performance but also can make it take longer for any changes to propagate.
 
 **Note:** This post was created with the help of ChatGPT, but it is crucial to recognize that the technology only assisted in its generation. The final structure, ideas, and accuracy of the content are all determined and reviewed by the author.
