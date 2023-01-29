@@ -3,8 +3,8 @@ title: Integrating a custom domain with Github Pages
 date: 2023-01-27 00:00:00 +0100
 toc_sticky: true
 excerpt: Learn how to add a custom domain to your Github Pages website and establish your own brand online.
-categories: reference
-tags: webdevelopment githubpages customdomain
+categories: web-development
+tags: github-pages custom-domain
 ---
 
 ## Introduction

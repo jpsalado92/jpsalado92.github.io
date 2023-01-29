@@ -4,7 +4,7 @@ date: 2020-07-22 00:00:00 +0100
 toc_sticky: false
 classes: wide
 excerpt: Implementing a Data Lake in Amazon's cloud with AWS S3, AWS EMR and Spark.
-categories: reference data-engineering projects
+categories: data-engineering
 tags: amazon-emr data-lake aws
 ---
 

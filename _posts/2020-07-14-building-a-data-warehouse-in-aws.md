@@ -2,7 +2,7 @@
 title: "Building a Data Warehouse in AWS"
 date: 2020-07-14 00:00:00 +0100
 excerpt: Implementing a SQL DWH in Amazon's cloud with Amazon Redshift.
-categories: reference data-engineering projects
+categories: data-engineering
 tags: amazon-redshift data-warehouse aws
 classes: wide
 ---

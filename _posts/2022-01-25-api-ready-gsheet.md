@@ -1,7 +1,7 @@
 ---
 title: "Integrating a custom API in Google Sheets with Apps Script"
 categories: data-analytics
-tags: API AppsScript GoogleWorkspace
+tags: api apps-script google-workspace
 ---
 
 This post is intended to be a reference to any programmer that needs a template project in order to integrate custom API

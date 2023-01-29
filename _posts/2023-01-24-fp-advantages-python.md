@@ -3,8 +3,8 @@ title: Functional programming in Python
 date: 2023-01-24 00:00:00 +0100
 toc_sticky: true
 excerpt: Why choosing functional programming over object oriented programming.
-categories: reference
-tags: FP OOP Python best-practices
+categories: software
+tags: fp oop python best-practices
 ---
 
 As a developer who primarily works with **Functional programming (FP)** in my day-to-day projects, I wanted to write a post to share my experience and insights on why I find FP to be a great fit for the kind of work that I do, covering advantages over **Object-Oriented programming (OOP)** and different use cases.

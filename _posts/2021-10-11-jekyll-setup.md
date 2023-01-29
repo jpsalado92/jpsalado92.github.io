@@ -3,7 +3,7 @@ title: "Setting up a Jekyll powered site"
 date: 2021-10-11 16:30:00 +0100
 last_modified_at: 2021-12-15 16:30:00 +0100
 excerpt: Enjoy a simple, responsive, and awesome personal site for free with Jekyll.
-categories: reference web-development
+categories: web-development
 tags: jekyll
 ---
 

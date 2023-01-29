@@ -1,7 +1,7 @@
 ---
 title: "Setting up Minimal Mistakes"
 date:   2021-10-18 17:00:00 +0100
-categories: reference web-development
+categories: web-development
 tags: jekyll minimal-mistakes
 toc: false
 classes: wide
