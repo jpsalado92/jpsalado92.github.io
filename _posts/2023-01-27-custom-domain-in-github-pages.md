@@ -5,6 +5,7 @@ toc_sticky: true
 excerpt: Learn how to add a custom domain to your Github Pages website and establish your own brand online.
 categories: web-development
 tags: github-pages custom-domain
+classes: wide
 ---
 
 ## Introduction
