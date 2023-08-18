@@ -17,7 +17,7 @@ ENV LANG=en_US.UTF-8 \
 
 # Install bundler, latest jekyll, and github-pages for older jekyll
 RUN gem update --system
-RUN gem install bundler jekyll github-pages
+# RUN gem install bundler jekyll github-pages
 
 # [Choice] Node.js version: none, lts/*, 16, 14, 12, 10
 ARG NODE_VERSION="none"
