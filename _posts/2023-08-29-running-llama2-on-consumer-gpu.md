@@ -13,7 +13,7 @@ Large language models like Llama2 have shown remarkable potential in various nat
 ## Requirements
 
 - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) with [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu-22042-lts/9PN20MSR04DW) installed.
-- A capable enough NVIDIA GPU. (I got this working on a NVIDIA GeForce RTX 4060 Laptop GPU)
+- A NVIDIA GPU with at least 4GBs of VRAM.
 
 ## Step 1: Request access to the model
 
