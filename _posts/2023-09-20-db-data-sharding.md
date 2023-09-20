@@ -1,5 +1,5 @@
 ---
-title: "What is data sharding?"
+title: "What is 'Data Sharding' in databases?"
 toc: false
 categories: data-engineering
 tags: data-sharding reference
