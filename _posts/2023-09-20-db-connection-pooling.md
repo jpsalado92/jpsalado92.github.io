@@ -2,7 +2,7 @@
 title: "What is 'Connection Pooling' in databases?"
 toc: false
 categories: data-engineering
-tags: data-sharding reference
+tags: connection-pooling reference databases
 ---
 
 Imagine a database as a busy office with lots of employees (or in this case, database connections) who need to access information from it. When a program or application wants to talk to the database, it's like an employee coming to the office to do some work.

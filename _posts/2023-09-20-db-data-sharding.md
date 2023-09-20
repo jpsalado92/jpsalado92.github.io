@@ -2,7 +2,7 @@
 title: "What is 'Data Sharding' in databases?"
 toc: false
 categories: data-engineering
-tags: data-sharding reference
+tags: data-sharding reference databases
 ---
 
 Data sharding is a technique used in database management to divide and store a large amount of data into smaller, more manageable pieces or "shards". Think of it like splitting a big puzzle into smaller parts to make it easier to work with.
