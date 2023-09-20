@@ -5,11 +5,15 @@
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"customizations": {
-		"extensions": [
-			"rebornix.Ruby",
-			"streetsidesoftware.code-spell-checker",
-			"eamodio.gitlens"
-		]
+		"vscode": {
+			"extensions": [
+				"rebornix.Ruby",
+				"streetsidesoftware.code-spell-checker",
+				"eamodio.gitlens",
+				"yzhang.markdown-all-in-one",
+				"DavidAnson.vscode-markdownlint"
+			]
+		}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
