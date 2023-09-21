@@ -12,7 +12,10 @@
 				"eamodio.gitlens",
 				"yzhang.markdown-all-in-one",
 				"DavidAnson.vscode-markdownlint"
-			]
+			],
+			"[markdown]": {
+				"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+			}
 		}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
