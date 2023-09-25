@@ -1,9 +1,6 @@
 ---
 title: "What are the main investment instruments?"
-classes: wide
-toc: false
 categories: personal-finance
-tags: investing
 ---
 
 In the world of finance and investment, understanding the characteristics of different investment instruments is important. From stocks and bonds to cryptocurrencies and real estate, each asset class comes with its unique set of attributes, including risk, return potential, volatility, liquidity, and more. In this comprehensive guide, the main investment options are covered, providing insights into their **long-term profitability**, **volatility**, **diversification potential**, **fees**, and **liquidity**. Whether you're a seasoned investor or just starting on your financial journey, this overview aims to offer valuable information to help you make informed investment decisions.
