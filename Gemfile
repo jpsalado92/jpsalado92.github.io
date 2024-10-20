@@ -1,9 +1,5 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'tzinfo-data'
-gem 'tzinfo'
-gem 'webrick'
-gem "minimal-mistakes-jekyll"
+gem 'jekyll', '= 3.10'
+gem 'github-pages', '= 232'
+gem 'minimal-mistakes-jekyll', '~> 4.26', '>= 4.26.2'

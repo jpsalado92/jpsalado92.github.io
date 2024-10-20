@@ -3,31 +3,31 @@
 		"dockerfile": "./Dockerfile",
 		"context": "."
 	},
-	// Add the IDs of extensions you want installed when the container is created.
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"rebornix.Ruby",
-				"streetsidesoftware.code-spell-checker",
-				"eamodio.gitlens",
-				"yzhang.markdown-all-in-one",
-				"DavidAnson.vscode-markdownlint"
-			],
-			"[markdown]": {
-				"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-			}
-		}
-	},
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [
-		// Jekyll server
-		4000,
-		// Live reload server
-		35729
-	],
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bundle install",
-	"postStartCommand": "make clean",
-	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "root"
+	// // Add the IDs of extensions you want installed when the container is created.
+	// "customizations": {
+	// 	"vscode": {
+	// 		"extensions": [
+	// 			"rebornix.Ruby",
+	// 			"streetsidesoftware.code-spell-checker",
+	// 			"eamodio.gitlens",
+	// 			"yzhang.markdown-all-in-one",
+	// 			"DavidAnson.vscode-markdownlint"
+	// 		],
+	// 		"[markdown]": {
+	// 			"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+	// 		}
+	// 	}
+	// },
+	// // Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [
+	// 	// Jekyll server
+	// 	4000,
+	// 	// Live reload server
+	// 	35729
+	// ],
+	// // Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "bundle install",
+	// "postStartCommand": "make clean",
+	// // Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+	// "remoteUser": "root"
 }
