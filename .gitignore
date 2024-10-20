@@ -9,6 +9,7 @@
 # Ruby Gem
 *.gem
 .bundle
+Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
@@ -26,11 +27,3 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-
-# Pycharm files
-.idea
-
-# Custom files
-draft_images
-_drafts/*
-!_drafts/style.md
