@@ -6,7 +6,10 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 16px !default;
+$doc-font-size-medium: $doc-font-size * 1.125 !default;
+$doc-font-size-large: $doc-font-size * 1.25 !default;
+$doc-font-size-x-large: $doc-font-size * 1.375 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -100,7 +103,7 @@ $linkedin-color: #007bb6 !default;
 $mastodon-color: #2b90d9 !default;
 $pinterest-color: #cb2027 !default;
 $reddit-color: #ff4500 !default;
-$rss-color: #ffffff !default;
+$rss-color: #fa9b39 !default;
 $soundcloud-color: #ff3300 !default;
 $stackoverflow-color: #fe7a15 !default;
 $tumblr-color: #32506d !default;

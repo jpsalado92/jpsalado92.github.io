@@ -11,7 +11,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
@@ -26,9 +26,5 @@
     </h2>
     {% include page__meta.html type=include.type %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-    <i class="fas fa-tags"></i>
-    {% for tag in post.tags %}
-    <a href="/tags/#{{ tag }}" class="page__meta btn" rel="tag">{{ tag }}</a>
-    {% endfor %}
   </article>
 </div>
