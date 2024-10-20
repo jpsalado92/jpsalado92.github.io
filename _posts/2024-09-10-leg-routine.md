@@ -1,5 +1,5 @@
 ---
-title: "20240910 Rutina de pierna"
+title: "Leg routine (September 2024)"
 categories: fitness
 ---
 
