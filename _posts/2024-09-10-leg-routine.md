@@ -36,12 +36,12 @@ categories: fitness
 - **Plancha lateral con elevación de pierna**:
 	- Trabaja los oblicuos, glúteos y estabilizadores del core.
 	- 3x30 segundos por lado
-	- [VIDEO]https://www.youtube.com/watch?v=fc_7KTtiZ-0)
+	- [VIDEO](https://www.youtube.com/watch?v=fc_7KTtiZ-0)
 
 ## Enfriamiento:
 
 - Estiramiento de cuadriceps
-- Hamstrings Stretch https://www.youtube.com/watch?v=T_l0AyZywjU
+- Hamstrings Stretch [VIDEO](https://www.youtube.com/watch?v=T_l0AyZywjU)
 - Calf Stretch
 - Adductor Stretch
 
