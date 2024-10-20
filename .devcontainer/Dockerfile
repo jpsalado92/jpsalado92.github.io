@@ -5,8 +5,3 @@ FROM ruby:3.3
 # It ensures that you have the latest version of RubyGems, which can include important
 # updates and security fixes.
 RUN gem update --system
-
-# Install requirements for the app based on the Gemfile
-RUN bundle install
-
-
